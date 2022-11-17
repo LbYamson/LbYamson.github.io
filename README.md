@@ -1,6 +1,6 @@
 # **Welcome to my Chess pages github.io**
 
-"*Chess makes men wiser and clear-sighted*” – Vladimir Putin"
+"***Chess makes men wiser and clear-sighted***” – Vladimir Putin"
 ### 2 Chess Materials
 - Board
 - Pieces
