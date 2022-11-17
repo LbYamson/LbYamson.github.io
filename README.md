@@ -1,11 +1,20 @@
-# Welcome to my Chess pages github.io
-### Chess requirments 
+# **Welcome to my Chess pages github.io**
+"*Chess makes men wiser and clear-sighted*” – Vladimir Putin"
+### 2 Chess Materials
 - Board
 - Pieces
-- Coordinates
 
 ## Board
+![Board](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMs5W1s_VNUXawaYnW9CqKuKP7CCfW7L_M3g&usqp=CAU)
 
-![alt text](https://i.etsystatic.com/30637172/c/1440/1144/0/609/il/055193/3409762512/il_340x270.3409762512_jib8.jpg)
+## Pieces
+- King
+- Queen
+- Rook
+- knight
+- Bishop
+- Pawn
+
+![Pieces](https://st2.depositphotos.com/1310390/5535/v/600/depositphotos_55357515-stock-illustration-complete-set-of-chess-pieces.jpg)
 
 [Chess.com](https://www.chess.com/home)
