@@ -1,4 +1,10 @@
-# ***<center> Welcome to Chess github.io </center>*** <img align="right" width="50" height="50" src="https://cdn.skillz.com/devportal2/uploads/game/icon/6404/chess-icon-1024.png">
+
+# ***Welcome to Chess github.io***
+
+<p align="center">
+<img src="https://thumbs.dreamstime.com/b/logo-form-chess-good-to-use-as-community-themed-race-can-also-be-used-application-such-gaming-128896929.jpg" width="140" height="150" />
+ </p>
+
 
 ***<center> "Chess makes men wiser and clear-sighted” – Vladimir Putin" </center>***
 
@@ -13,7 +19,7 @@
 
 ### [Chess.com](https://www.chess.com/)<img align="left" width="30" height="30" src="https://play-lh.googleusercontent.com/ae-_WU8rZQ9xWesJo_ngZUFHk-ZGGIw4xFJjWlYEmTrl_S-XV-i0HpQv_LWlO3fCBt0">
 
-### - [Lichess.org](https://lichess.org/)<img align="left" width="30" height="30" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
+### [Lichess.org](https://lichess.org/)<img align="left" width="30" height="30" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
 
 # ***Needed in Chess***
 - Board
@@ -41,5 +47,3 @@
 - Player 2
 
 <img src="https://www.amazingdreamz.com/wp-content/uploads/2019/05/How-to-play-chess.jpg" width="600" height="400" />
-
-<img src="https://play-lh.googleusercontent.com/ae-_WU8rZQ9xWesJo_ngZUFHk-ZGGIw4xFJjWlYEmTrl_S-XV-i0HpQv_LWlO3fCBt0" width="50" height="50" />
