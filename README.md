@@ -13,6 +13,8 @@
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D2RrRsBgbv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ej_fnsdsksA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ## ***Recommended Chess Websites***
@@ -47,3 +49,5 @@
 - Player 2
 
 <img src="https://www.amazingdreamz.com/wp-content/uploads/2019/05/How-to-play-chess.jpg" width="600" height="400" />
+
+# ***RULES***
