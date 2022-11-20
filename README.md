@@ -2,19 +2,19 @@
 "***Chess makes men wiser and clear-sighted***” – Vladimir Putin"
 
 ## *Summary*
+<p-align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D2RrRsBgbv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 Recommended Chess Websites
-
 [Chess.com](https://www.chess.com/)
-  
+
 [Lichess.org](https://lichess.org/)
 
 ## Needed in Chess
 - Board
 - Pieces
 - 2 Players
-
 ## Board
 ![Board](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMs5W1s_VNUXawaYnW9CqKuKP7CCfW7L_M3g&usqp=CAU)
 
