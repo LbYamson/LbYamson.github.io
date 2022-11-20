@@ -9,11 +9,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D2RrRsBgbv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-## Recommended Chess Websites
+## ***Recommended Chess Websites***
 
-[Chess.com](https://www.chess.com/)
+### [Chess.com](https://www.chess.com/)
 
-[Lichess.org](https://lichess.org/)
+### [Lichess.org](https://lichess.org/)
 
 # ***Needed in Chess***
 - Board
@@ -21,7 +21,10 @@
 - 2 Players
 
 ## *Board*
-![Board](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMs5W1s_VNUXawaYnW9CqKuKP7CCfW7L_M3g&usqp=CAU)
+
+<p align="center">
+<img src="https://www.chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png" width="400" height="400" />
+</p>
 
 ## ***Pieces***
 - King
@@ -31,10 +34,16 @@
 - Bishop
 - Pawn
 
-![Pieces](https://st2.depositphotos.com/1310390/5535/v/600/depositphotos_55357515-stock-illustration-complete-set-of-chess-pieces.jpg)
+<img src="https://st2.depositphotos.com/1310390/5535/v/600/depositphotos_55357515-stock-illustration-complete-set-of-chess-pieces.jpg" width="600" height="400" />
 
 ## *Players*
 - Player 1
 - Player 2
 
-![playing](https://www.amazingdreamz.com/wp-content/uploads/2019/05/How-to-play-chess.jpg)
+<img src="https://www.amazingdreamz.com/wp-content/uploads/2019/05/How-to-play-chess.jpg" width="600" height="400" />
+
+
+
+
+
+<img src="https://www.amazingdreamz.com/wp-content/uploads/2019/05/How-to-play-chess.jpg" width="600" height="400" />
