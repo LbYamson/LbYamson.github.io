@@ -49,5 +49,3 @@
 - Player 2
 
 <img src="https://www.amazingdreamz.com/wp-content/uploads/2019/05/How-to-play-chess.jpg" width="600" height="400" />
-
-# ***RULES***
