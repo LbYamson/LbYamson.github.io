@@ -5,10 +5,11 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D2RrRsBgbv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Recommended Chess Websites
+## Recommended Chess Websites
+
 [Chess.com](https://www.chess.com/)
 
-![Lichess.org](https://i1.sndcdn.com/artworks-RLo2veG9ps6AiHPq-IGz4rQ-t500x500.jpg)(https://lichess.org/)
+[Lichess.org](https://lichess.org/)
 
 ## Needed in Chess
 - Board
