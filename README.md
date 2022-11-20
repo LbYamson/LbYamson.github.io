@@ -11,16 +11,16 @@
 
 ## ***Recommended Chess Websites***
 
-### [Chess.com](https://www.chess.com/)<img align="left" width="40" height="40" src="https://play-lh.googleusercontent.com/ae-_WU8rZQ9xWesJo_ngZUFHk-ZGGIw4xFJjWlYEmTrl_S-XV-i0HpQv_LWlO3fCBt0">
+### [Chess.com](https://www.chess.com/)<img align="left" width="45" height="45" src="https://play-lh.googleusercontent.com/ae-_WU8rZQ9xWesJo_ngZUFHk-ZGGIw4xFJjWlYEmTrl_S-XV-i0HpQv_LWlO3fCBt0">
 
-### [Lichess.org](https://lichess.org/)<img align="left" width="40" height="40" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
+### [Lichess.org](https://lichess.org/)<img align="left" width="45" height="45" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
 
 # ***Needed in Chess***
 - Board
 - Pieces
 - 2 Players
 
-## *Board*
+## ***Board***
 
 <p align="center">
 <img src="https://www.chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png" width="400" height="400" />
