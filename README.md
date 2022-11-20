@@ -1,5 +1,5 @@
 
-# ***Welcome to Chess github.io***
+# ***<center> Welcome to Chess github.io </center>***
 
 <p align="center">
 <img src="https://thumbs.dreamstime.com/b/logo-form-chess-good-to-use-as-community-themed-race-can-also-be-used-application-such-gaming-128896929.jpg" width="140" height="150" />
