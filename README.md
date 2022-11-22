@@ -35,11 +35,12 @@
 ## ***Pieces***
 ***<center> There are six different types of chess pieces. Each side starts with 16 pieces: eight pawns, two bishops, two knights, two rooks, one queen, and one king </center>***
 
+<p align="center">
 <img src="https://st2.depositphotos.com/1310390/5535/v/600/depositphotos_55357515-stock-illustration-complete-set-of-chess-pieces.jpg" width="600" height="400" />
+</p>
 
 ## *Players*
-- Player 1
-- Player 2
 
+<p align="center">
 <img src="https://d53j7mnhlzrdg.cloudfront.net/lesson/funny%20chess%20moments/funny%20chess.jpeg" width="600" height="400" />
-
+</p>
