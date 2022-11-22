@@ -41,5 +41,5 @@
 - Player 1
 - Player 2
 
-<img src="https://www.amazingdreamz.com/wp-content/uploads/2019/05/How-to-play-chess.jpg" width="600" height="400" />
+<img src="https://d53j7mnhlzrdg.cloudfront.net/lesson/funny%20chess%20moments/funny%20chess.jpeg" width="600" height="400" />
 
