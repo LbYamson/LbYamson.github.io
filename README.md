@@ -2,7 +2,7 @@
 # ***<center> Welcome to Chess github.io </center>***
 
 <p align="center">
-<img src="https://thumbs.dreamstime.com/b/logo-form-chess-good-to-use-as-community-themed-race-can-also-be-used-application-such-gaming-128896929.jpg" width="140" height="150" />
+<img src="https://media.istockphoto.com/id/1308228271/vector/chess-pieces-vector-illustration-chess-pieces-king-knight-rook-pawns-on-a-chessboard.jpg?s=612x612&w=0&k=20&c=ug278em0geL18792TbEuxZxg2WSV5KAL5-5Ss-eey4g=" width="140" height="150" />
  </p>
 
 
@@ -12,8 +12,6 @@
 *<center> Chess is a game played between two opponents on opposite sides of a board containing 64 squares of alternating colors. Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. The goal of the game is to checkmate the opponents king. </center>*
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2RrRsBgbv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ej_fnsdsksA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
@@ -35,12 +33,7 @@
 </p>
 
 ## ***Pieces***
-- King
-- Queen
-- Rook
-- knight
-- Bishop
-- Pawn
+***<center> There are six different types of chess pieces. Each side starts with 16 pieces: eight pawns, two bishops, two knights, two rooks, one queen, and one king </center>***
 
 <img src="https://st2.depositphotos.com/1310390/5535/v/600/depositphotos_55357515-stock-illustration-complete-set-of-chess-pieces.jpg" width="600" height="400" />
 
@@ -49,3 +42,4 @@
 - Player 2
 
 <img src="https://www.amazingdreamz.com/wp-content/uploads/2019/05/How-to-play-chess.jpg" width="600" height="400" />
+
