@@ -44,3 +44,5 @@
 <p align="center">
 <img src="https://d53j7mnhlzrdg.cloudfront.net/lesson/funny%20chess%20moments/funny%20chess.jpeg" width="600" height="400" />
 </p>
+
+[RAnDOM LINK](https://jevilthemaster.github.io/)
